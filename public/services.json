@@ -1,0 +1,44 @@
+[
+    {
+      "id": 1,
+      "image": "https://i.ibb.co/KKd86SR/1.png",
+      "title": "Big Data Hackathons",
+      "description": "Hackathon for developers, Data Science and Big Data specialists, HR, entrepreneurs, lawyers, teachers, and researchers working in the field of inclusivity and recruitment. Possibility to register for the entire duration of the hackathon or for the presentation of final projects only. A four-week event for master's and Ph.D. students in Data Science, mathematics, programming, or related fields. Participants are encouraged to use AI, machine learning, and programming skills to score as many points as possible in the game competition.",
+      "price": 80
+    },
+    {
+      "id": 2,
+      "image": "https://i.ibb.co/D9R0WmQ/2.png",
+      "title": "Gaming Conventions",
+      "description": "Gaming conventions in Europe have become major attractions for gamers, developers, an industry professionals. These events provide an excellent opportunity for attendees to connect with like-minded individuals, discover the latest trends in gaming, get a sneak peek at upcoming releases, and even explore some famous European cities. As the gaming industry continues to expand and evolve, these European conventions are growing in size and significance, drawing thousands of passionate gamers worldwide.",
+      "price": 250
+    },
+    {
+      "id": 3,
+      "image": "https://i.ibb.co/XkGxRL6/3.jpg",
+      "title": "Tech Conferences",
+      "description": "Searching for the top tech events to attend in 2023? This carefully curated conference directory features more than 100 tech conferences happening worldwide in 2023. The tech events featured in this list take place throughout the year and cover a wide range of different industries — from SaaS and FinTech to startup events and more.  Looking ahead to 2023, Bizzabo's research uncovered that 85% of event organizers plan to host at least three in-person events, with 35% planning to host at least 10. These findings reflect a study from PCMA, which found that nearly 70% of event organizers were planning in-person events for the second and third quarters of 2022.",
+      "price": 100
+    },
+    {
+      "id": 4,
+      "image": "https://i.ibb.co/MBv0Qtg/4.png",
+      "title": "Gamification in Customer Service",
+      "description": "Gamification is about taking something that is not a game and applying game mechanics to increase user engagement, happiness, and loyalty!”This means that gamification takes elements from game design and the general principles and theories that drive gameplay and applies them to other contexts. In 2002, Nick Pelling coined the term gamification and freestyle rappers everywhere rejoiced at the rhyming potential it offered. It a term you have probably heard before. Maybe you have a vague understanding of what it is. Maybe you do not. Perhaps you have used it before. Perhaps you have not. Maybe the term makes you break out in hives. Maybe it makes you jump for joy.",
+      "price": 15
+    },
+    {
+      "id": 5,
+      "image": "https://i.ibb.co/z6TTqkT/5.png",
+      "title": "Game Developers Conference",
+      "description": "The Game Developers Conference (GDC) is the largest game industry event in the world. The Show attracts over 24,000 attendees and is the primary forum where programmers, artists, producers, audio professionals, game designers, business decision-makers and others involved in the development of interactive games gather to exchange ideas and shape the future of the industry. Produced by the UBM Tech Game Network, this market-defining conference features over 400 lectures, panels, tutorials, and round-table discussions on a comprehensive selection of game development topics taught by leading industry experts.",
+      "price": 200
+    },
+    {
+      "id": 6,
+      "image": "https://i.ibb.co/cD0gQs4/6.png",
+      "title": "Big video game events",
+      "description": " After a tumultuous few years, video game events are back on track and in full swing for 2023. That means plenty of in-person meet-ups, global showcases, and much more besides. Event organizers who spent the last two years online have now transitioned to a hybrid system  providing spaces for those who are able to attend physical events while keeping fans around the world in the loop online. From pop culture celebrations to major video game presentations like E3 and The Game Awards, here every major video game event for 2023, and what to expect in the coming year.",
+      "price": 250
+    }
+  ]

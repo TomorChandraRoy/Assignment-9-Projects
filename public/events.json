@@ -1,0 +1,44 @@
+[
+    {
+      "id": 1,
+      "image": "https://i.ibb.co/7J26YSL/1.jpg",
+      "title": "Melbourne International Games Week 2023 (Hybrid)",
+      "description":"After two years of engaging online audiences across the globe, Melbourne International Games Week 2023 (MIGW) returns to Melbourne. Now in its 8th year, MIGW is the biggest games event in Asia Pacific and a fixture on the global calendar, connecting games, technology, educators, and game enthusiasts alike.",
+      "price": 300
+    },
+    {
+      "id": 2,
+      "image": "https://i.ibb.co/W62T9Dp/2.jpg",
+      "title": "Game Industry Conference (GIC) 2023",
+      "description": "The Game Industry Conference takes place alongside the Poznan Game Arena, one of the most important and largest game expos in Europe. Over 76,000 visitors enjoy the show by testing games and hardware from more than 220 expositors. The two events are the best place to meet most of the people from the Polish Game Industry.",
+      "price": 250
+    },
+    {
+      "id": 3,
+      "image": "https://i.ibb.co/rHqr9w8/3.jpg",
+      "title": "RetroGameCon X 2023 (United States)",
+      "description": "RetroGameCon returns to Syracuse this fall on October 7-8, 2023! New York State’s largest gaming expo, celebrating 10 amazing years of beautiful nostalgia and our retro gaming community.Visit the News Section to search for event news and the Event Calendar for finding other events like RetroGameCon X 2023.411 Montgomery St, Syracuse",
+      "price": 200
+    },
+    {
+      "id": 4,
+      "image": "https://i.ibb.co/y5BFKM1/4.jpg",
+      "title": " GAconf Seattle 2023(Hybrid)",
+      "description": "Two days of talks and networking exploring recent and future advancements in the field of game accessibility. Attendees can expect a wide range of topics from all sectors of the industry – indie to AAA, academia to accessibility specialists – and leave with inspiration, new contacts, and practical knowledge.",
+      "price": 280
+    },
+    {
+      "id": 5,
+      "image": "https://i.ibb.co/6DzBpL0/5.jpg",
+      "title": "Gamescom Asia 2023",
+      "description": "Gamescom Asia returns in 2023 to the familiar festival atmosphere once again! The first Asia satellite event of gamescom, the world’s largest computer and video games festival, expects four days of exhilarating highlights for the gaming industry and a spectacular entertainment program for fans. (Asia 2023)",
+      "price": 300
+    },
+    {
+      "id": 6,
+      "image": "https://i.ibb.co/0q2nbjR/6.jpg",
+      "title": "TwitchCon Las Vegas 2023",
+      "description": "Calling all streamers and viewers! Mark your calendars because this is the moment we’ve all been waiting for — TwitchCon is back for the Ultimate Squad Up and here are all the deets! TwitchCon Las Vegas will be held at the Las Vegas Convention Center on 20-22 October and TwitchCon Paris will be back.",
+      "price": 250
+    }
+  ]
