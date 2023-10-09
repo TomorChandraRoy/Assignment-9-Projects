@@ -89,5 +89,5 @@ console.log(count);
 - C: 3
 - D: 4
 
-<!-- 5. - C: 3 
-Answer: This is because the forEach() method iterates over the nums array and calls the callback function for each element in the array. The callback function checks if the current element is greater than 0. If it is, the count variable is incremented. -->
+5. - C: 3 
+Answer: This is because the forEach() method iterates over the nums array and calls the callback function for each element in the array. The callback function checks if the current element is greater than 0. If it is, the count variable is incremented.
