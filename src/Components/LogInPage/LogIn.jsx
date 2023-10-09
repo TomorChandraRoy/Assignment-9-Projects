@@ -6,7 +6,7 @@ import swal from 'sweetalert';
 
 
 const LogIn = () => {
-  //  ffffffffff
+  
   // goole diye login kora
     const {logInUser,signInWithGoogle} = useContext(AuthContext);
     const handleGooleSignIn =()=>{
