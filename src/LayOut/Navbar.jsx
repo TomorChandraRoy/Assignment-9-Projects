@@ -45,7 +45,7 @@ const Navbar = () => {
 
             </ul>
           </div>
-          <div ><img className="w-[200px] h-[50px] " src="../../src/assets/logo.png" alt="" /></div>
+          <div ><img className="w-[200px] h-[50px] " src="https://i.ibb.co/2dcw1W1/logo.png" alt=""/></div>
         </div>
         <div className="navbar-center hidden lg:flex">
           <ul className="menu menu-horizontal px-1">
@@ -84,5 +84,4 @@ const Navbar = () => {
       </div>
     );
 };
-
 export default Navbar;

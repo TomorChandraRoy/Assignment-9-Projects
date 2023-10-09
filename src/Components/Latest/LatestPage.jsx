@@ -9,7 +9,7 @@ const LatestPage = () => {
       <div className=" flex   mt-10 flex-col    lg:flex-row w-full rounded-xl bg-white bg-clip-border text-gray-700 shadow-md" data-aos="zoom-in-up">
         <div className="relative mx-5 lg:w-2/5 shrink-0 overflow-hidden rounded-xl rounded-r-none bg-white bg-clip-border text-gray-700">
           <img
-            src="./src/assets/photo.jpg"
+            src="https://i.ibb.co/gV5tYQB/photo.jpg"
             alt="image"
             className="h-full lg:w-full object-cover"
           />

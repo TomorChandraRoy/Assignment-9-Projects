@@ -14,7 +14,7 @@ const Banner = () => {
 
   return (
     <div>
-      <section className=" mx-5 lg:-mx-1 rounded relative bg-gray-500 bg-blend-multiply bg-[url('../public/bg.jpg')]" >
+      <section className=" mx-5 lg:-mx-1 rounded relative bg-gray-500 bg-blend-multiply bg-[url('../public/ss4.jpg')]" >
           <div className="  max-w-screen-xl px-4 py-32 lg:flex lg:h-fit lg:items-center" data-aos="zoom-in">
             <div className="mx-auto max-w-xl text-center">
 
