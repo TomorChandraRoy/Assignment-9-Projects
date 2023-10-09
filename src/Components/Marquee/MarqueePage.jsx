@@ -7,7 +7,7 @@ import logo6 from "../../image/ss7.png";
 
 
 const MarqueePage = () => {
-  // you aer good boy
+  
   return (
     <div className="my-10 ">
         <h2 className=" mb-7 font-extrabold bg-red-600 text-white w-fit mx-auto px-2 py-1 rounded text-2xl">Tech and Gameing Sponsored By</h2>
