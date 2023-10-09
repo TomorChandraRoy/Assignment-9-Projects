@@ -5,7 +5,7 @@ import PropTypes from 'prop-types';
 
 export const AuthContext = createContext(null);
 
-// cortext Apl 
+
 const AuthProvider = ({children}) => {
     const [user, setuser] = useState(null);
 
