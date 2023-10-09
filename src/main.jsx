@@ -18,6 +18,7 @@ import About from './Components/AboutPage/About';
 import Contect from './Components/ContectPage/Contect';
 import FeaturedEvents from './Components/FeaturedPage/FeaturedEvents';
 import GamesPage from './Components/GamesPage/GamesPage';
+import Tech from './Components/TechPage/Tech';
 
 const router = createBrowserRouter([
   {
@@ -69,6 +70,12 @@ const router = createBrowserRouter([
       {
         path:'/contact',
         element:<Contect></Contect>
+       
+      },
+      {
+        path:'/tech',
+        element:<Tech></Tech>,
+        loader: () =>fetch('/tech.json')
        
       },
     ]

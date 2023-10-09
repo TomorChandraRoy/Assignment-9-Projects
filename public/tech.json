@@ -1,0 +1,30 @@
+[
+    {
+      "id": 1,
+      "image": "https://i.ibb.co/C8hkFFY/1.jpg",
+      "title": "Top tech conferences",
+      "description": "For better or worse, conferences appear to be back, so to help you work out what events to head to in 2023, TechRadar Pro has curated a list of the most important international technology events and conferences coming this year",
+      "price": 350
+    },
+    {
+      "id": 2,
+      "image": "https://i.ibb.co/1q06N0K/2.jpg",
+      "title": "Big tech events",
+      "description": "September 26th marks Vox Media’s Code event, which includes Verge editor-in-chief Nilay Patel co-hosting alongside Platformer founder Casey Newton and CNBC senior media and tech correspondent Julia Boorstin.",
+      "price": 250
+    },
+    {
+      "id": 3,
+      "image": "https://i.ibb.co/FXZC8Gk/3.png",
+      "title": " Top Tech Events",
+      "description": "Check out the best tech events happening around the world – from cool space tech to awesome robotics, we’ve found the top events you won’t want to miss. Take a look at these events that we think you should definitely check out. ",
+      "price": 400
+    },
+    {
+      "id": 4,
+      "image": "https://i.ibb.co/QXsR1ns/4.jpg",
+      "title": "Biggest conferences",
+      "description": "Technology conferences bring together thousands of digital nomads and experts worldwide. These events are often the highlight of the year for many professionals. We have compiled a list of the most significant technological events in Europe. ",
+      "price": 280
+    }
+  ]

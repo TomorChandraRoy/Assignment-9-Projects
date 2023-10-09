@@ -17,11 +17,12 @@ const Navbar = () => {
           <div className="flex lg:gap-4">
             <li><NavLink to="/">Home</NavLink></li>
             <li><NavLink to="/login">Login</NavLink></li>
+            <li><NavLink to="/event">Events</NavLink></li>
         
             { user &&
               <>
                 <li><NavLink to="/games">Games</NavLink></li>
-                <li><NavLink to="/event">Events</NavLink></li>
+                <li><NavLink to="/tech">Tech Event</NavLink></li>
               </>
             }
           </div>
